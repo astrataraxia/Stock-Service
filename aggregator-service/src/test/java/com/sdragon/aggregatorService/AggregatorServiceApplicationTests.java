@@ -1,4 +1,4 @@
-package com.sdragon.aggregator_service;
+package com.sdragon.aggregatorService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
