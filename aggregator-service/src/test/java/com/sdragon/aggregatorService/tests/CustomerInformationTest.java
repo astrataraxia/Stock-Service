@@ -25,7 +25,7 @@ public class CustomerInformationTest extends AbstractIntegrationTest{
                 .jsonPath("$.id").isEqualTo(1)
                 .jsonPath("$.name").isEqualTo("Sam")
                 .jsonPath("$.balance").isEqualTo(10000)
-                .jsonPath("$.holding").isNotEmpty();
+                .jsonPath("$.holdings").isNotEmpty();
     }
 
     @Test

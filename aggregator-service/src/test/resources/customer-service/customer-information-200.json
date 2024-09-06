@@ -2,7 +2,7 @@
   "id": 1,
   "name": "Sam",
   "balance": 10000,
-  "holding": [
+  "holdings": [
     {
       "ticker": "GOOGLE",
       "quantity": 2
